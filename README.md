@@ -1,5 +1,5 @@
- # my-Azure-Journey
-i've been learning azure for a while, here are my documented two cents on everything. i hope this will help someone 
+ # My Transition into Cloud Security
+i've been learning azure for a while along the way i interacted with Aws for a while so here are my documented two cents on everything. i hope this will help someone 
 This repo will contain some of the thing i consider to have been invaluable in cloud security roadmap.
 
 # Tips on how to get started with Cloud Security
