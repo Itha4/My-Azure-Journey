@@ -7,8 +7,7 @@ This repo will contain some of the thing i consider to have been invaluable in c
 - curate a roadmap for yourself. What do you want to achieve adn hwo should you go about it. this will help silence the outside noises when you're feeling overwhelmed or lost
 - important thing you'll need to learn when it comes to cloud security; safe to note you can approach things from an agonstic point of view or you can be cloud specific:
   - Learn the cloud you want to work with indepth!! if its azure, aws or gcp get your basics in order they'll help you understand how you can incorporate security practices.
-  - Learn Cloud security from an agonstic point of view (i'll attach resources/books i used to learn) know the how security in the cloud is structured into; IAM Security,
-    Network Security, Data Security, Endpoint Security... 
+  - Learn Cloud security from an agonstic point of view (i'll attach resources/books i used to learn) know the how security in the cloud is structured into; IAM Security, Network Security, Data Security, Endpoint Security...  You can check out this course by Simplilearn  https://lms.simplilearn.com/courses/4250/Introduction-to-Cloud-Security/syllabus 
   - Get a cloud subscription and start getting familiar with things on the cloud.
   - Provision things from th eportal and don't forget to clean up reources once you're done, avoid being billed for things you forgot to delete.
   - Learn Infrastructure as Code; working on the cloud mean syou have to be good at provisioning things fast and especially when you need to provision many resources at a go. 
