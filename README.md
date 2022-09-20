@@ -3,7 +3,7 @@ i've been learning azure for a while along the way i interacted with Aws for a w
 This repo will contain some of the thing i consider to have been invaluable in cloud security roadmap.
 
 # Tips on how to get started with Cloud Security
-- Be ready to learn and stay open minded!, might sound like the cliche thing you hear out hear but it really holds.
+- Be ready to learn and stay open minded!, might sound like the cliche thing you hear out here but it really holds.
 - curate a roadmap for yourself. What do you want to achieve adn hwo should you go about it. this will help silence the outside noises when you're feeling overwhelmed or lost
 - important thing you'll need to learn when it comes to cloud security; safe to note you can approach things from an agonstic point of view or you can be cloud specific:
   - Learn the cloud you want to work with indepth!! if its azure, aws or gcp get your basics in order they'll help you understand how you can incorporate security practices.
