@@ -31,5 +31,6 @@ This repo will contain some of the thing i consider to have been invaluable in c
 #Youtube channels you can follow that will be helpful
 - John Savvil for all your Azure learning  https://www.youtube.com/results?search_query=john+savill 
 - Rod Trent for all your KQL learning https://www.youtube.com/results?search_query=rod+trent 
+
 #Podcasts to listen to
 - Azure Security podcast available on streaming services. 
